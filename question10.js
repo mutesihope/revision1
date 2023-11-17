@@ -13,7 +13,7 @@ function displayPattern(rows, cols) {
       console.log(row);
     }
   }
-  const numRows = 4;
-  const numCols = 5;
-  displayPattern(numRows, numCols);
+  displayPattern(5, 5);
   
+
+ 
